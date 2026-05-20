@@ -1,0 +1,10 @@
+{
+  "version": "0.0.2",
+  "organization": "wangxu-dev",
+  "date": "May 2026",
+  "abstract": "AI-assisted EPUB book translation toolkit. Preserves code blocks, supports progressive batch translation via JSON workflow, and rebuilds translated EPUBs. Language-agnostic — works with any source/target language pair.",
+  "references": [
+    "https://agentskills.io",
+    "https://github.com/wangxu-dev/epub-translator-skills"
+  ]
+}
